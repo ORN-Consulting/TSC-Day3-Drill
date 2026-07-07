@@ -11,7 +11,7 @@
   — 고정비·변동비·판매가를 입력해 손익분기점을 계산합니다.
 
 ### 경제성 분석 (NPV · IRR · Payback)
-- [NPV / IRR / Payback 시뮬레이터](https://day1-paju-youth-startup-lecture.vercel.app/NPV/Period_NPV_IRR_Simulator.html)
+- [NPV / IRR / Payback 시뮬레이터](https://tsc-day3-drill.vercel.app/NPV/Period_NPV_IRR_Simulator_v2.html)
   — 기간별 현금흐름으로 순현재가치·내부수익률·회수기간을 산출합니다.
 
 ---

@@ -7,7 +7,7 @@
 ## 실습 파일
 
 ### BEP (손익분기점 분석)
-- [BEP 시뮬레이터](https://github.com/ORN-Consulting/TSC-Day3-Drill/blob/main/BEP/BEP_%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0_v3.html)
+- [BEP 시뮬레이터](https://vercel.com/quasildh-4927s-projects/tsc-day3-drill/BEP/BEP_%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0_v3.html)
   — 고정비·변동비·판매가를 입력해 손익분기점을 계산합니다.
 
 ### 경제성 분석 (NPV · IRR · Payback)
